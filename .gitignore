@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env*
+!.env.example
+.DS_Store
+*.tsbuildinfo
+.wrangler/
+.sites-runtime/
+workspace-app/.openai/hosting.json
+*.pem
+*.key
