@@ -41,7 +41,7 @@ All preview content is illustrative. Text edits remain in memory on the current 
 | Apollo search and explicit enrichment | Implemented in workspace; provider credentials and live validation pending |
 | Unattended follow-up scheduling and continuous inbox sync | Not implemented |
 
-No user adoption, response-rate improvements or time savings are claimed. Resume extraction is rule based; this project is not presented as an LLM research agent.
+Background extraction in the full workspace uses rule-based text parsing followed by user review.
 
 ## Repository structure
 
